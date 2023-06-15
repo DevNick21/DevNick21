@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevNick21
 - 👀 I’m interested in HTML CSS JavaScript Python JAVA;
-- 🌱 I’m currently learning the JavaScript ecosystem ;
+- 🌱 I’m currently learning the Python;
 - 📫 How to reach me email: iheanacho.ekene@hotmail.com
 
 <!---

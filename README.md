@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DevNick21
-- 👀 I’m interested in HTML CSS JavaScript Python JAVA;
-- 🌱 I’m currently learning the Python;
+- 👋 Hi, I’m Iheanacho Ekenedirichukwu Nicholas @DevNick21
+- 👀 I’m interested in Python. Java. HTML. CSS. JavaScript;
+- 🌱 I’m currently learning Python;
 - 📫 How to reach me email: iheanacho.ekene@hotmail.com
 
 <!---

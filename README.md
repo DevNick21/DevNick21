@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Iheanacho Ekenedirichukwu Nicholas @DevNick21
-- 👀 I’m interested in Python. Java. HTML. CSS. JavaScript;
+- 👀 I’m interested in Python. Java. HTML. CSS. JavaScript. React;
 - 🌱 I’m currently learning Python;
 - 📫 How to reach me email: iheanacho.ekene@hotmail.com
 

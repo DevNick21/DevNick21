@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Iheanacho Ekenedirichukwu Nicholas @DevNick21
 - 👀 I’m interested in Python. Java. HTML. CSS. JavaScript. React;
-- 🌱 I’m currently learning Machine Learning;
+- 🌱 I’m currently learning AI, Machine Learning and Reinforcement learning;
 - 📫 How to reach me email: iheanacho.ekene@hotmail.com
 - How to reach me LinkedIn: https://www.linkedin.com/in/iheanacho-ekenedirichukwu-baabb7199/
 
